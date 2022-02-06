@@ -7,7 +7,9 @@
     border-collapse: collapse;
     border: none ;
     overflow: auto;
-    display: block;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
 }
 .style1 thead,.style1 tr{
     width: fit-content;
