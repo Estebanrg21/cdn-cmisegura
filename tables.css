@@ -10,6 +10,7 @@
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;
+    flex-direction: column;
 }
 .style1 thead,.style1 tr{
     width: fit-content;
