@@ -6,15 +6,8 @@
 .style1{
     border-collapse: collapse;
     border: none ;
-    overflow: auto;
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    flex-direction: column;
 }
-.style1 thead,.style1 tr{
-    width: fit-content;
-}
+
 .style1 *{
     border:none !important;
     text-align: center;
@@ -27,7 +20,6 @@
 .style1 td,.style1 thead th{
     border-right: 1px solid var(--style1-dark-color) !important;
     min-width: 120px !important;
-    width: fit-content !important;
     padding: 0 5px;
     overflow:hidden !important;
 }
