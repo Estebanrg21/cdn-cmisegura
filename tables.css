@@ -12,7 +12,6 @@
     border:none !important;
     text-align: center;
     word-wrap: break-word;
-    word-break: break-all;
 }
 .style1 tbody tr:nth-child(even){
     background-color: var(--style1-light-color);
